@@ -1,6 +1,6 @@
 ### Arduino Mantar Otomasyonu (v1.0)
 
-Bu yazılım, 30LT'lik bir plastik kutu içerisinde; Arduino kullanarak, tam otomatik istiridye mantarı yetiştirmek için geliştirilmiştir.<br />
+Bu yazılım, 30Lt'lik bir plastik kutu içerisinde; Arduino kullanarak, tam otomatik istiridye mantarı yetiştirmek için geliştirilmiştir.<br />
 
 <br>
 
